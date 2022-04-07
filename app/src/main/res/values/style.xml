@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="card_oval">
+        <item name="android:background">@drawable/card_oval</item>
+    </style>
+    <style name="detailsPageGradient">
+        <item name="android:background">@drawable/gradient</item>
+    </style>
+    <style name="rectangular_round_corners">
+        <item name="android:background">@drawable/rectangular_round_corners</item>
+    </style>
+    <style name="details_oval">
+        <item name="android:background">@drawable/details_oval</item>
+    </style>
+</resources>
